@@ -1,0 +1,32 @@
+.timetable{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table{
+    border-collapse: collapse;   
+}
+h1{
+    text-align: center;
+}
+
+/* tr:nth-child(even) {
+  background-color: #dddddd;
+} */
+td,th{
+    text-align: center;
+    border: 1px solid grey;
+    padding: 10px;
+}
+th{
+    background: rgb(236, 236, 236);
+}
+#rowspan{
+    background: rgb(236, 236, 236);
+}
+.LAB{
+    background: rgb(236, 236, 236);
+}
+#sports{
+    background: rgb(236, 236, 236);
+}

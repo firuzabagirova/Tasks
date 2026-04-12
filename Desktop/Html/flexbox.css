@@ -1,0 +1,31 @@
+.anadiv{
+    margin: 0 auto;
+    background-color: red;
+    width: 700px;
+    height: 600px;
+    padding: 10px;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    /* flex-direction: column  ; */
+    justify-content: space-evenly;
+    gap: 5px;
+    /* justify-content: center;
+    align-items: start; */
+    /* justify-content: center;
+    align-items: center; */
+
+}
+.baladiv{
+    background-color: darkred;
+    width: 100px;
+    height: 100px;
+    /* margin: 5px; */
+}
+.baladiv1{
+    background-color: green;
+    /* align-self: center; */
+}
+.baladiv2{
+    background-color: blue;
+    /* align-self: flex-start; */
+}

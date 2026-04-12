@@ -1,0 +1,14 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 10px;
+    margin: 30px;
+}
+/* div span{
+    color: yellow;
+} */
+ .red span{
+    color: yellow;
+    background-color: pink;
+ }

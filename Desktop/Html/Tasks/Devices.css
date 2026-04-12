@@ -1,0 +1,30 @@
+.devices{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+table{
+border:2px solid grey;
+padding: 3px;
+}
+th,td{
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid grey;
+    border-right: 2px solid grey;
+    padding: auto;
+}
+#head{
+    background-color: rgb(62, 198, 206);
+}
+.smart{
+    height: auto;
+}
+#smalltble{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.smalltable{
+    background-color: rgb(252, 211, 102);
+} 
